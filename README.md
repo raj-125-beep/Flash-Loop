@@ -23,7 +23,7 @@ Wallet	Phantom Wallet
 Library	@solana/web3.js
 ⚙️ Setup & Run Locally
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/flashflow.git
+git clone https://github.com/raj-125-beep/Flash-Loop
 cd flashflow
 
 2️⃣ Install Dependencies (optional for pure HTML)
