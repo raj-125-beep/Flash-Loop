@@ -1,4 +1,4 @@
-⚡ Flash-Loop — Solana-Powered Auto Transaction System
+⚡ Flash-Loop — A Solana-Powered Auto Transaction System
 
 Flash-Loop is a minimal decentralized web application built on Solana that enables seamless wallet connection using Phantom Wallet and executes instant peer-to-peer transactions on the Solana Devnet.
 The project demonstrates Solana integration, wallet authentication, and basic on-chain transaction handling — perfect for hackathon-ready submissions.
@@ -6,13 +6,9 @@ The project demonstrates Solana integration, wallet authentication, and basic on
 🚀 Features
 
 🔗 Phantom Wallet Integration — Securely connect and disconnect your Solana wallet.
-
 💸 Instant SOL Transfers — Send SOL between wallets directly from your browser.
-
 🧩 Simple UI — Clean and minimal one-page dashboard.
-
 🌐 Runs Locally or on Vercel — Works seamlessly with both localhost and hosted environments.
-
 🧠 Hackathon-Ready Base — Bare-minimum Solana integration to expand into escrow, marketplaces, or automation.
 
 🛠️ Tech Stack
@@ -21,26 +17,6 @@ Frontend	HTML, JavaScript, TailwindCSS
 Blockchain	Solana (Devnet)
 Wallet	Phantom Wallet
 Library	@solana/web3.js
-⚙️ Setup & Run Locally
-1️⃣ Clone the Repository
-git clone https://github.com/raj-125-beep/Flash-Loop
-cd flashflow
-
-2️⃣ Install Dependencies (optional for pure HTML)
-
-If using Node:
-
-npm install
-
-3️⃣ Start Local Server
-
-Use any of these:
-
-python -m http.server 5500
-or
-npx serve
-Then open:
-👉 http://localhost:5500
 
 🧩 How It Works
 
@@ -87,8 +63,6 @@ Default Transfer Amount: 0.01 SOL
 Ensure: Wallet has devnet SOL (use Solana Faucet)
 Switch Network: In Phantom → Developer Settings → Select Devnet
 
-🏁 Future Enhancements
-Add backend webhook (Node.js or Python) for transaction logs
-Build escrow contract (program) using Solana Anchor
-Integrate Telegram bot for automation
-Deploy on Vercel or Netlify for production use
+Made with ❤
+By Rajan Kumar Das
+
