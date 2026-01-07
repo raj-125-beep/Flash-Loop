@@ -30,7 +30,7 @@ On success, you’ll see a success alert with the transaction ID
 Disconnect Wallet
 Click Disconnect to unlink your wallet
 
-🪙 Example Transaction Flow
+ Example Transaction Flow
 Step	Description
 1️⃣	User connects Phantom wallet
 2️⃣	Enters or uses a preset recipient address
@@ -41,11 +41,8 @@ Step	Description
 
 This version includes direct transfers only.
 You can extend it to:
-
 Implement an escrow system (funds held until both parties confirm)
-
 Build an automated trading bot using Solana webhooks
-
 Add Telegram bot integration for automated notifications or actions
 
 📜 File Structure
