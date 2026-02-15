@@ -60,6 +60,8 @@ Default Transfer Amount: 0.01 SOL
 Ensure: Wallet has devnet SOL (use Solana Faucet)
 Switch Network: In Phantom → Developer Settings → Select Devnet
 
+Automate your orders with Flash-Loop today!
+
 Made with ❤
 By Rajan Kumar Das
 
